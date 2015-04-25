@@ -1,0 +1,54 @@
+
+textarea {
+    resize: vertical;
+}
+
+textarea.att-cmt {
+    resize: none;
+}
+
+.normal-width {
+    width: auto;
+}
+
+.display-inline{
+    display: inline;
+}
+
+.needimprovement {
+    color: red;
+}
+.becomingeffective {
+    color: #FFCC00;
+}
+.effective {
+    color: green;
+}
+.higheffective {
+    color: blue;
+}
+.exceptional {
+    color: #FF6600;
+}
+
+
+
+.navbar.user-info-navbar {
+    height: 77px;
+}
+.count_btn{
+    cursor:pointer;
+    float:left;
+    width:16px;
+    height:20px;
+    width:auto;
+    height:auto;
+    background:#212121;
+    color:#ffffff;
+    margin:3px;
+    padding:4px;
+    font-size:13px;//18px;
+    font-family:'arial';
+    border-radius:3px;
+
+}

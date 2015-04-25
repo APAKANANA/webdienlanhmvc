@@ -1,0 +1,5 @@
+﻿
+
+khi mà dùng tocify với fixed top bar thì sẽ bị che một phần
+-> vào file js của tocify, sửa thông số scrollTo lại
+minify top bar thì scrollTo 55, vậy đó
