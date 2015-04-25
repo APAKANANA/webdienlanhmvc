@@ -1,0 +1,22 @@
+﻿#bodyad{
+	margin-left:90px;
+	width:1180px;
+	height:auto;
+}
+#bodyleftad{
+	float:left;
+	width:300px;
+	margin-bottom: 10px;
+	background-color: #5a9e18;
+}
+#bodyrightad{
+	float: right;
+	width:870px;
+	margin-bottom: 10px;
+	background-color: yellow;
+}
+#error_login{
+list-style-type:none;
+color:red;
+list-style:none;
+}

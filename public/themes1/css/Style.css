@@ -1,0 +1,130 @@
+			#head1{
+				background-color:#5a9e18;
+				height:27px;
+				width:100%;
+				margin-top:0px;
+			}
+			#head11{
+				margin-left:1000px;
+				color:#ffffff;
+				font-family:area;
+			}
+			#backgrhead{
+				background-image:url('../../image/header.jpg');
+				background-color:#5a9e18;
+				background-repeat: none;
+				height:200px;
+				width:100%;
+			}
+			#backgrhead1{
+				margin-left:600px;
+			}
+			.mmenu{
+				margin-left:90px;
+				width:1180px;
+				font-family:area;	
+			}
+			#botmenu{
+				background-image:url('../../image/boder.jpg');
+				width:1180px;
+				height:40px;
+				font-size:10;
+				font-family:area;
+				margin-bottom:5px;
+			}
+			#search{
+				margin-left:850px;
+				margin-right:10px;
+			}
+			.bodyleft{
+				float:left;
+				width:450px;
+				height:380px;
+				background-image:url('../../image/sach.jpg') ;
+				background-size:100% 75%;
+			}
+			.bodyright{
+				float:right;
+				width:705px;
+				height:380px;
+				border: 1px solid gray;
+			}
+			.bodyrightleft{
+				float:left;
+				width:450px;
+				height:100%;
+			}
+			.bodyrightright{
+				float:right;
+				width:250px;
+				height:100%;
+			}
+			.Menu1top{
+				margin-bottom:10px;
+			}
+			.Menu1bottom{
+				margin-right:30px;
+				width:300px;
+				height:120px;
+				border: 1px solid gray;
+			}
+			.bodyy{
+				margin-left:90px;
+				width:1180px;
+				font-family:area;
+				height:430px;
+				margin-bottom:10px;
+			}
+			.Menu1{
+				margin-left:20px;
+				height:15px;
+			}
+			#Menu{
+				margin-left:80px;
+			}
+			.buttonsearch{
+				background-image:url('../../image/search.jpg');
+				background-size:100% 100%;
+				width:40px;
+			}
+			.buttonrefresh{
+				background-image:url('../../image/refresh.jpg');
+				background-size:100% 100%;
+				width:36px;
+			}
+			.Label1{
+				width: 300px;
+			}
+			.Label2{
+				width: 260px;
+			}
+			.h31{
+				color : #5a9e18;
+			}
+			#h32{
+				color : black;
+			}
+			.tabforget{
+				margin-left:200px;
+				width:700px;
+				height:auto;
+				margin-bottom:10px;
+			}
+			.tabforget1{
+				margin-left:100px;
+				width:700px;
+				height:auto;
+				margin-bottom:10px;
+			}
+			.abc1 {
+				float :left;
+				height:190px;
+				width: 190px;
+			}
+			#foot{
+				clear:both;
+				width:100%;
+				height:100px;
+				background-color: #5a9e18;
+			}
+			

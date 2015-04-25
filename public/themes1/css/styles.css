@@ -1,0 +1,122 @@
+#logo {
+  float: left;
+  background: url('2T2P.gif') no-repeat;
+  width: 150px;
+  height: 60px;
+}
+#infoheader {
+width: 1015px;
+height: 60px;
+background: none;
+margin: auto;
+margin-top:5px;
+}
+#search{
+padding-top:10px;
+}
+#tab {
+padding-left:100px;
+}
+#blackbutton{
+ background-color: black;
+}
+#DNbutton{
+margin-top:20px;
+}
+#Menu{
+margin-left:155px;
+}
+#DN {
+padding-top:30px;
+padding-right:30px;
+}
+#DK {
+padding-top:30px;
+padding-right:10px;
+}
+#Menu1{
+margin-left:100px;
+}
+#Menu2{
+text-align: center ;
+}
+#Foot{
+	width:100%;
+	height:80px;
+	bottom:0;
+	left:0;
+	background:#ee5;
+	font-size:10px;
+	clear:both;
+}
+#Label{
+width: 150px;
+}
+#Label1{
+width: 500px;
+}
+#Border{
+text-align: center ;
+border-top-style:solid;
+border-right-style:solid;
+border-bottom-style:solid;
+border-left-style:solid;
+margin-left:250px;
+margin-right:250px;
+}
+#Border1{
+text-align: center ;
+border-top-style:solid;
+border-right-style:solid;
+border-bottom-style:solid;
+border-left-style:solid;
+margin-left:250px;
+margin-right:250px;
+}
+#bodyleft{
+float:left;
+width:200px;
+height:400px;
+margin-left:160px;
+background-color:#5bc0de;
+}
+#bodyright{
+float:right;
+width:810px;
+height:400px;
+margin-right:160px;
+background-color:green;
+}
+#bodyright_left{
+float:left;
+width:550px;
+height:400px;
+background-color:red;
+}
+#bodyright_right{
+float:right;
+width:240px;
+height:400px;
+background-color:black;
+}
+#menuleft1{
+margin:0px;
+padding-left:3px;
+list-style:none;
+}
+
+#menuleft2{
+margin:0px;
+padding-left:15px;
+list-style:none;
+}
+
+#menuleft3{
+margin:0px;
+padding-left:15px;
+}
+#menuleft3 li{
+margin:0px;
+padding-left:15px;
+color:yellow;
+}

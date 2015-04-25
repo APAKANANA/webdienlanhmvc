@@ -1,0 +1,84 @@
+#error_login{
+list-style-type:none;
+color:red;
+list-style:none;
+}
+#body_ad{
+	margin-left:90px;
+	width:1180px;
+	height:auto;
+}
+#bodydn_ad{
+	margin-left:250px;
+	margin-top:150px;
+	width:1180px;
+	height:auto;
+}
+#menuleft_ad{
+	float:left;
+	width:190px;
+	min-height:1800px;
+	font-family:area;
+	font-size:18px;
+	background-color: #A37547;
+	position: fixed;
+}
+#menuright_ad{
+	float:right;
+	width:985px;
+	height:auto;
+	font-family:area both;
+	font-size:16px;
+	background-color: #C8B5A3;
+}
+.search_ad{
+	float:right;
+	margin-right:20px;
+	margin-top:10px;
+	font-family:area;
+	font-size:18x;
+}
+.button_ad{
+	background-color: #A37547;
+}
+.font_color{
+	color: #A37547;
+}
+.border_detail_ad{
+	height: auto;
+	width: 800px;
+	border: #A37547 solid;
+}
+.text_baocao_ad{
+	width: 40px;
+	height: 28px;
+	background-color: #C8B5A3;
+}
+.text_baocao1_ad{
+	width: 175px;
+	height: 28px;
+}
+.date_baocao_ad{
+	width: 175px;
+	height: 28px;
+	background-color: #C8B5A3;
+}
+.combobox_baocao_ad{
+	width: 75px;
+	height: 28px;
+	background-color: #C8B5A3;
+}
+.combobox_baocao1_ad{
+	width: 170px;
+	height: 28px;
+	background-color: #C8B5A3;
+}
+.combobox_baocao2_ad{
+	width: 100px;
+	height: 28px;
+	background-color: #C8B5A3;
+}
+.h31_ad{
+	color :  #A37547;
+}
+.h31_ad:hover { color : black; }
